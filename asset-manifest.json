@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/heart_rate_monitor/static/css/main.ca57846c.css",
-    "main.js": "/heart_rate_monitor/static/js/main.1ef6df74.js",
+    "main.css": "/heart_rate_monitor/static/css/main.23f9df45.css",
+    "main.js": "/heart_rate_monitor/static/js/main.90ee2fb9.js",
     "static/js/453.5fae26ec.chunk.js": "/heart_rate_monitor/static/js/453.5fae26ec.chunk.js",
-    "static/media/logo.svg": "/heart_rate_monitor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/heart_rate_monitor/index.html",
-    "main.ca57846c.css.map": "/heart_rate_monitor/static/css/main.ca57846c.css.map",
-    "main.1ef6df74.js.map": "/heart_rate_monitor/static/js/main.1ef6df74.js.map",
+    "main.23f9df45.css.map": "/heart_rate_monitor/static/css/main.23f9df45.css.map",
+    "main.90ee2fb9.js.map": "/heart_rate_monitor/static/js/main.90ee2fb9.js.map",
     "453.5fae26ec.chunk.js.map": "/heart_rate_monitor/static/js/453.5fae26ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca57846c.css",
-    "static/js/main.1ef6df74.js"
+    "static/css/main.23f9df45.css",
+    "static/js/main.90ee2fb9.js"
   ]
 }
