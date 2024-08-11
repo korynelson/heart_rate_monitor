@@ -1,14 +1,38 @@
+/* src/App.css */
+
 .App {
   text-align: center;
+  margin-top: 50px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.device-card {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.device-card h2, .device-card h3, .device-card h4 {
+  margin: 10px 0;
+}
+
+.device-card ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.error-message {
+  color: red;
+  margin-top: 20px;
 }
